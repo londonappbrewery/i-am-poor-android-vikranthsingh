@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#0080746F"
+    android:background="#dff9fb"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
@@ -16,12 +16,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:ems="10"
-        android:textAlignment="center"
-        android:background="@null"
-        android:inputType="textPersonName"
-        android:text="SINGH"
+        android:layout_marginTop="60dp"
+        android:text="@string/name"
+        android:textColor="@color/colorPrimaryDark"
         android:textSize="50sp" />
+
 
     <ImageView
         android:id="@+id/imageView"

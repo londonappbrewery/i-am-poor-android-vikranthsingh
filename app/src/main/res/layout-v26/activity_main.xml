@@ -19,7 +19,7 @@
         android:importantForAutofill="no"
         android:inputType="textPersonName"
         android:padding="@dimen/activity_horizontal_margin"
-        android:text="@string/title"
+        android:text="@string/name"
         android:textAlignment="center"
         android:textColor="#ffffff"
         android:textSize="36sp" />
